@@ -1,7 +1,7 @@
 // El servidor de GUN.JS //
 const GUN = require('gun');
 const PORT = process.env.PORT || 8080
-const server = require('http').createServer().listen(PORT);
+const server = require('https').createServer().listen(PORT);
 
 const gun = GUN({ web: server });
 console.log('Servidor funcioanndo en el puerto ' + PORT);
