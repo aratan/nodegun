@@ -16,5 +16,7 @@
   "dependencies": {
     "gun": "^0.2020.1237"
   },
-  "devDependencies": {}
+  "devDependencies": {
+   "gun": "^0.2020.1237"
+  }
 }
