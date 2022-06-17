@@ -2,9 +2,9 @@
   "name": "index",
   "version": "1.0.0",
   "description": "servidor Gun.js",
-  "main": "index.js",
+  "main": "index",
 "scripts": {
-  "start": "node index.js"
+  "start": "node index"
 },
   "keywords": [
     "server",
