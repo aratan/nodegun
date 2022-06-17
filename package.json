@@ -1,0 +1,20 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "servidor Gun.js",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js"
+},
+  "keywords": [
+    "server",
+    "gun",
+    "heroku"
+  ],
+  "author": "victor arbiol",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "^0.2020.1237"
+  },
+  "devDependencies": {}
+}
